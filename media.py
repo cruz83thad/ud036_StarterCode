@@ -1,10 +1,10 @@
 import webbrowser
 
-#Create Class Movie
+# Create Class Movie
 class Movie():
     """Project 1 for Thad Childers"""
     
-    #Constructor
+    # Constructor
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         #Instance Variables
         self.title = movie_title
@@ -12,6 +12,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    #Instance Method
+    # Instance Method
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
