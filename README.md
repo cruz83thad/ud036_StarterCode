@@ -1,7 +1,8 @@
 # Description
-**Project 1** for displying favorite movies usind **Class, Constructo, Instance Variables, Instance Methods and Instances** through ```fresh_tomatoes```
+**Project 1** for displaying favorite movies using **Class, Constructor, Instance Variables, Instance Methods and Instances** through ```fresh_tomatoes```
 
 ## Install/Quick Start
+Basic Program that displays favorite movies through html.
 
 ## FAQ
 
