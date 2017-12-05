@@ -10,7 +10,7 @@
 - fresh_tomatoes.py
 - README.md
 
-## Install/Quick Start
+## Install/Quick Start for Windows
 Basic Program that displays favorite movies through html.
 1. Start Python 2.7 IDLE (Start > All Programs > Python 2.7 > IDLE (Python GUI))
 2. Open entertainment_center.py (File > Open > Location of entertainment_center.py from #2 in ##Prerequisites)
